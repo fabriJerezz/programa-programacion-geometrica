@@ -6,4 +6,5 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "gpkit>=1.1.1",
+    "ipykernel>=6.29.5",
 ]
