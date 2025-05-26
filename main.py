@@ -1,10 +1,4 @@
 from gpkit import Variable, Model
-import matplotlib
-
-matplotlib.use("TkAgg")
-
-import matplotlib.pyplot as plt
-
 
 def main():
     # Problema en forma estandar:
